@@ -1,4 +1,7 @@
-MuteAnnoying.custom = {
+MuteAnnoying.mute.ambience = {
+}
+
+MuteAnnoying.mute.character = {
 	[539295] = "sound/character/bloodelf/bloodelffemalecry01.ogg",
 	[539219] = "sound/character/bloodelf/bloodelffemaletrain01.ogg",
 	[539355] = "sound/character/bloodelf/bloodelfmalecry01.ogg",
@@ -65,6 +68,12 @@ MuteAnnoying.custom = {
 	[543084] = "sound/character/troll/trollfemalecry01.ogg",
 	[543093] = "sound/character/troll/trollmalechoochoo01.ogg",
 	[543090] = "sound/character/troll/trollmalecry01.ogg",
+}
+
+MuteAnnoying.custom = {
+}
+
+MuteAnnoying.mute.creature = {
 	[544688] = "sound/creature/babylich/ghostlyskullpetclickable1.ogg",
 	[544691] = "sound/creature/babylich/ghostlyskullpetclickable2.ogg",
 	[544692] = "sound/creature/babylich/ghostlyskullpetclickable3.ogg",
@@ -287,6 +296,9 @@ MuteAnnoying.custom = {
 	[564806] = "sound/creature/xt002deconstructor/ur_xt002_slay01.ogg",
 	[564804] = "sound/creature/xt002deconstructor/ur_xt002_slay02.ogg",
 	[564800] = "sound/creature/xt002deconstructor/ur_xt002_special01.ogg",
+}
+
+MuteAnnoying.mute.doodad = {
 	[566564] = "sound/doodad/belltollalliance.ogg",
 	[565853] = "sound/doodad/belltollhorde.ogg",
 	[566027] = "sound/doodad/belltolltribal.ogg",
@@ -302,12 +314,18 @@ MuteAnnoying.custom = {
 	[566929] = "sound/doodad/g_fireworklauncher02custom0.ogg",
 	[566643] = "sound/doodad/g_fireworklauncher02custom3.ogg",
 	[597071] = "sound/doodad/g_fireworktwirlysmall01gold.ogg",
+}
+
+MuteAnnoying.mute.event = {
 	[567354] = "sound/event/event_pvz_babbling.ogg",
 	[567327] = "sound/event/event_pvz_dadadoo.ogg",
 	[567317] = "sound/event/event_pvz_doobeedoo.ogg",
 	[567338] = "sound/event/event_pvz_lalala.ogg",
 	[567374] = "sound/event/event_pvz_sunflower.ogg",
 	[567295] = "sound/event/event_pvz_zombieonyourlawn.ogg",
+}
+
+MuteAnnoying.mute.events = {
 	[567384] = "sound/events/archaniteripper.ogg",
 	[567393] = "sound/events/arena_crowdcheer1_alliance.ogg",
 	[567390] = "sound/events/arena_crowdcheer1_horde.ogg",
@@ -325,6 +343,9 @@ MuteAnnoying.custom = {
 	[598196] = "sound/events/gruntling_horn_bb.ogg",
 	[598079] = "sound/events/squire_horn_aa.ogg",
 	[598187] = "sound/events/squire_horn_bb.ogg",
+}
+
+MuteAnnoying.mute.spells = {
 	[568821] = "sound/spells/crowdcheeralliance1.ogg",
 	[568672] = "sound/spells/crowdcheeralliance2.ogg",
 	[569085] = "sound/spells/crowdcheerhorde1.ogg",
@@ -334,6 +355,9 @@ MuteAnnoying.custom = {
 	[568271] = "sound/spells/seduction_state_head.ogg",
 	[568730] = "sound/spells/summonnightmare.ogg",
 	[569748] = "sound/spells/summonwarhorse.ogg",
+}
+
+MuteAnnoying.mute.vehicles = {
 	[569858] = "sound/vehicles/motorcyclevehicle/motorcyclevehicleattackthrown.ogg",
 	[569863] = "sound/vehicles/motorcyclevehicle/motorcyclevehiclejumpend1.ogg",
 	[569857] = "sound/vehicles/motorcyclevehicle/motorcyclevehiclejumpend2.ogg",
@@ -364,5 +388,8 @@ MuteAnnoying.custom = {
 	[1045067] = "sound/vehicles/veh_hordechopper_run_gearchange01.ogg",
 	[1045068] = "sound/vehicles/veh_hordechopper_run_gearchange02.ogg",
 	[1045069] = "sound/vehicles/veh_hordechopper_run_gearchange03.ogg",
-	[1045070] = "sound/vehicles/veh_hordechopper_summon.ogg"
+	[1045070] = "sound/vehicles/veh_hordechopper_summon.ogg",
+}
+
+MuteAnnoying.unmute = {
 }
